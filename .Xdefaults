@@ -1,0 +1,12 @@
+xterm*background: black
+xterm*foreground: Green
+xterm*termName: xterm-256color
+xterm*faceName:Unispace style=Bold:size=12:antialias=true
+
+
+xterm*font: 7x13
+xterm*loginShell: true
+xterm*vt100*geometry: 155x76
+xterm*saveLines: 65536
+/* Double-click to select a word. */
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:4
